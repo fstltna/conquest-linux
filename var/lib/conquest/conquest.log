@@ -1,0 +1,9 @@
+Sun Aug 27 18:20:45 2023 conqoper[73934]: GetSysConf(): fopen(/snap/conquest-linux/etc/conquest//conquest.conf) failed: No such file or directory
+Sun Aug 27 18:20:45 2023 conqoper[73934]: cqiLoadRC: Loading '/snap/conquest-linux/etc/conquest//conqinitrc'...
+Sun Aug 27 18:20:45 2023 conqoper[73934]: cqiLoadRC: cbLimits: planets: 60, ships: 20, users: 500, hist: 40, msgs: 60
+Sun Aug 27 18:20:45 2023 conqoper[73934]: cqiLoadRC: cbLimits: torps: 9, shiptypes: 3
+Sun Aug 27 18:20:45 2023 conqoper[73934]: cbMap: Mapping the common block
+Sun Aug 27 18:20:45 2023 conqoper[73934]: cbMap: CB size: 463776 bytes
+Sun Aug 27 18:20:45 2023 conqoper[73934]: _checkCB: Initializing new common block: /snap/conquest-linux/var/lib/conquest//conquest.cb
+
+Sun Aug 27 18:20:45 2023 conqoper[73934]: OPER: Updating /snap/conquest-linux/etc/conquest//conquest.conf file...
